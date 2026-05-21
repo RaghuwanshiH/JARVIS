@@ -12,14 +12,16 @@ Offline ChatGPT clone running 100% on your laptop using Ollama + Python + Gradio
 - **Full privacy** - your data never leaves your machine
 - **Two versions** - CLI for speed, Web UI for sharing
 
-### Tech Stack: 
+### Tech Stack:
 Python, Ollama, TinyLlama, Gradio
 
 ### Run it locally:
 
-**1. Install Ollama** 
+**0. Install Python 3.10+** 
+Download from https://python.org. During install, check **"Add Python to PATH"**.
+
+**1. Install Ollama + download model** 
 Download from https://ollama.com then run:
 ```bash
-ollama run tinyllama
-python python/test.py
-python python/app.py
+ollama pull tinyllama
+
