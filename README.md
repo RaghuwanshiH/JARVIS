@@ -1,4 +1,4 @@
-# JARVIS:Local AI Assistant - GPU Version
+# JARVIS: 100% Local AI Assistant 🔥
 
 ### ⚡ 10x Faster with RTX 3050 + Phi-3 3.8B
 
@@ -8,7 +8,7 @@ Offline ChatGPT clone running locally on GPU. Blazing fast responses using Phi-3
 https://301ff5f802a78f1822.gradio.live
 
 **⚠️ Link only works when my laptop is running**  
-*Last online: 2026-05-21. If offline, clone and run locally in 3 mins.*
+*Last online: 2026-05-24. If offline, clone and run locally in 3 mins.*
 
 ![Demo](demo.png)
 
@@ -67,10 +67,13 @@ demo.launch(share=True)
 Restart the app and you'll get a https://xxxx.gradio.live link.
 
 ---
-### Want an always-online version?
+### Need an always-online version?
 I also built a CPU version using TinyLlama that runs 24/7 on Hugging Face:
 → [JARVIS-Lite](https://github.com/RaghuwanshiH/JARVIS-Lite) | [Live HF Demo](https://huggingface.co/spaces/HarshRaghuwanshi/python)
 
+---
+**Part of the JARVIS project family**  
+**Building JARVIS in public. v1.0 shipped May 2026.**  
 **Built with ❤️ to prove AI doesn't need the cloud**
 
 
