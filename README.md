@@ -69,7 +69,7 @@ Restart the app and you'll get a https://xxxx.gradio.live link.
 ---
 ### Want an always-online version?
 I also built a CPU version using TinyLlama that runs 24/7 on Hugging Face:
-→ [JARVIS-Lite](https://github.com/RaghuwanshiH/local-ai-assistant-hf) | [Live HF Demo](https://huggingface.co/spaces/HarshRaghuwanshi/python)
+→ [JARVIS-Lite](https://github.com/RaghuwanshiH/JARVIS-Lite) | [Live HF Demo](https://huggingface.co/spaces/HarshRaghuwanshi/python)
 
 **Built with ❤️ to prove AI doesn't need the cloud**
 
