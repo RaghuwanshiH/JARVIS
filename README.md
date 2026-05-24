@@ -1,4 +1,4 @@
-# Local AI Assistant - GPU Version
+# JARVIS:Local AI Assistant - GPU Version
 
 ### ⚡ 10x Faster with RTX 3050 + Phi-3 3.8B
 
